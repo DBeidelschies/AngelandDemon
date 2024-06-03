@@ -37,7 +37,6 @@
             this.lblExperience = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.lblLevel = new System.Windows.Forms.Label();
-            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -88,7 +87,7 @@
             // lblExperience
             // 
             this.lblExperience.AutoSize = true;
-            this.lblExperience.Location = new System.Drawing.Point(81, 49);
+            this.lblExperience.Location = new System.Drawing.Point(76, 49);
             this.lblExperience.Name = "lblExperience";
             this.lblExperience.Size = new System.Drawing.Size(0, 13);
             this.lblExperience.TabIndex = 5;
@@ -110,22 +109,11 @@
             this.lblLevel.Size = new System.Drawing.Size(0, 13);
             this.lblLevel.TabIndex = 7;
             // 
-            // btnTest
-            // 
-            this.btnTest.Location = new System.Drawing.Point(368, 315);
-            this.btnTest.Name = "btnTest";
-            this.btnTest.Size = new System.Drawing.Size(75, 23);
-            this.btnTest.TabIndex = 8;
-            this.btnTest.Text = "Test";
-            this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
-            // 
             // BattleForHeaven
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.lblLevel);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lblExperience);
@@ -153,7 +141,6 @@
         private System.Windows.Forms.Label lblExperience;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label lblLevel;
-        private System.Windows.Forms.Button btnTest;
     }
 }
 
