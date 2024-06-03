@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\bin\Debug\Engine1.dll
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\bin\Debug\Engine1.pdb
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\obj\Debug\Engine1.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\obj\Debug\Engine1.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\obj\Debug\Engine1.dll
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\Engine1\obj\Debug\Engine1.pdb

@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\bin\Debug\BattleForHeaven.exe.config
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\bin\Debug\BattleForHeaven.exe
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\bin\Debug\BattleForHeaven.pdb
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\bin\Debug\Engine1.dll
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\bin\Debug\Engine1.pdb
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.Properties.Resources.resources
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleFo.8BA856B9.Up2Date
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.exe
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.pdb
+C:\Users\danie\source\repos\AngelandDemon\BattleForHeaven\BattleForHeaven\obj\Debug\BattleForHeaven.BattleForHeaven.resources
