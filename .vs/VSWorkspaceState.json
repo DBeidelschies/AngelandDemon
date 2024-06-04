@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BattleForHeaven",
+    "\\BattleForHeaven\\BattleForHeaven"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\BattleForHeaven\\BattleForHeaven.sln",
   "PreviewInSolutionExplorer": false
 }
