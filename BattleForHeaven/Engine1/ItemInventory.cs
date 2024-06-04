@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Engine1
 {
-    internal class ItemInventory
+    public class ItemInventory
     {
         public Item Details { get; set; }
         public int Quantity { get; set; }

@@ -21,14 +21,10 @@ namespace BattleForHeaven
             InitializeComponent();
 
             Location location = new Location(1, "Heaven", "This is where you and the other angels live.");
-            
 
-            player = new Player();
-            player.CurrentHP = 10;
-            player.MaxHP = 10;
-            player.Energy = 10;
-            player.Experience = 0;
-            player.Level = 1;
+
+            player = new Player(10, 10, 10, 0, 1);
+
             lblHitPoints.Text = player.CurrentHP.ToString();
             lblEnergy.Text = player.Energy.ToString();
             lblExperience.Text = player.Experience.ToString();
