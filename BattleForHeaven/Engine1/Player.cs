@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 
 namespace Engine1
 {
-    public class Player
+    public class Player : LivingCreature
     {
-        public int MaxHP {  get; set; }
-        public int CurrentHP { get; set; }
         public int Energy { get; set; }
         public int Experience { get; set; }
         public int Level { get; set; }
+
+        public Player( int maximumHitPoints,int currentHitPoints, int energy, int experience, int level) : base (maximumHitPoints, currentHitPoints) {
+        
+            Energy = energy;
+            Experience = experience;
+            Level = level;
+
+        }
     }
 }

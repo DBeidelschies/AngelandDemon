@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Engine;
 using Engine1;
 
 namespace BattleForHeaven
@@ -15,9 +15,14 @@ namespace BattleForHeaven
     public partial class BattleForHeaven : Form
     {
         private Player player;
+
         public BattleForHeaven()
         {
             InitializeComponent();
+
+            Location location = new Location(1, "Heaven", "This is where you and the other angels live.");
+            
+
             player = new Player();
             player.CurrentHP = 10;
             player.MaxHP = 10;
@@ -28,6 +33,8 @@ namespace BattleForHeaven
             lblEnergy.Text = player.Energy.ToString();
             lblExperience.Text = player.Experience.ToString();
             lblLevel.Text = player.Level.ToString();
+
+
         }
 
         private void BattleForHeaven_Load(object sender, EventArgs e)
